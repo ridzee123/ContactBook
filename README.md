@@ -1,0 +1,1 @@
+ContactBook is a simple phone application in Android. It retrieves the contacts from the phone directory and displays it in the UI. From this application we can phone a user as well as block it whenever that contact phones us.
