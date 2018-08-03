@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/All_Contacts"
+        android:orderInCategory="100"
+        android:title="@string/all_contacts" />
+    <item
+        android:id="@+id/Block_Contacts"
+        android:orderInCategory="100"
+        android:title="@string/blocked_contacts" />
+</menu>

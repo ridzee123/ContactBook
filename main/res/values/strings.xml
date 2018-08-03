@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="blocked_contacts">Blocked List</string>
+</resources>
